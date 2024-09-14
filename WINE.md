@@ -8,10 +8,10 @@ wget it
 `https://storage.levelleap.com/nina/clients/msnp/patched-installer/msn/escargot-msn-7.5.0324-en.zip`
 
 Now that you have it downloaded, unzip it
-You need: wine, winetricks
+You need: wine, winetricks, lib32-gnutls
 
 Arch-Based
-`sudo pacman -S wine winetricks`
+`sudo pacman -S wine winetricks lib32-gnutls`
 Ubuntu-Based (this might require the keyrings and the repo from the wine website)
 `sudo apt install wine winetricks`
 
