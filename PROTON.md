@@ -54,6 +54,6 @@ Now that you copy and pasted it, add quotations at the front and end of the path
 Your `Target` path should look something like this
 `"home/micheal/.local/share/Steam/steamapps/compatdata/3359716659/pfx/drive_c/Program Files (x86)/MSN Messenger/msnmsgr.exe"`
 
-Now, this should be all, boot up the program on Steam and it should work! Thanks for reading, for Wine, go to the README.md file.
+Now, this should be all, boot up the program on Steam and it should work! Thanks for reading, for Wine, go to the WINE.md file.
 
 Micheal 2024
