@@ -1,4 +1,4 @@
-# escargot-linux (proton)
+# escargot-linux (Proton)
 
 This is a tutorial on how to install Windows Live Messenger (escargot [escargot.chat) on Linux.
 
