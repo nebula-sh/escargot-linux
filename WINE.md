@@ -1,4 +1,4 @@
-# escargot-linux
+# escargot-linux (Wine)
 
 This is a tutorial on how to install Windows Live Messenger (escargot [escargot.chat) on Linux.
 
