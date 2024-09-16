@@ -1,6 +1,6 @@
 # escargot-linux (Proton)
 
-This is a tutorial on how to install Windows Live Messenger (escargot [escargot.chat) on Linux.
+This is a tutorial on how to install Windows Live Messenger (escargot [escargot.chat]) on Linux.
 
 First, download WLM 7.5 from the Escargot website
 OR
